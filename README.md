@@ -37,6 +37,8 @@ Agent (Administrator)
 
 More features;
      
+     
+     
      -Code splitting to load only necessary resources i.e; use of Tailwind CSS
      
      -Real time synchronization which is very reliable with aid of modern web sockets
