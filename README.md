@@ -33,3 +33,6 @@ Agent (Administrator)
     -Notification triggers: Sends automatic email or app alerts when a ticket is assigned or updated
     -SLA Warnings: Flags tickets that have been sitting open or unassigned for too long 
     -Routing rules: Automatically directs tickets to specific departments based on student's chosen issue category
+More features;
+     -Code splitting to load only necessary resources i.e; use of Tailwind CSS
+     -Real time synchronization which is very reliable with aid of modern web sockets
