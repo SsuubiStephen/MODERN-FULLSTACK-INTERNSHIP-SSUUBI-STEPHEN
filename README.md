@@ -35,6 +35,9 @@ Agent (Administrator)
     -Routing rules: Automatically directs tickets to specific departments based on student's chosen issue category
 
 Gaps to tackle;
+     
+      
+      
       -Auto reports
       -Incase of updates, customer made changes are lost at the backend
       -Manual updates hence low response time after a while
