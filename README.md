@@ -34,11 +34,10 @@ Agent (Administrator)
     -SLA Warnings: Flags tickets that have been sitting open or unassigned for too long 
     -Routing rules: Automatically directs tickets to specific departments based on student's chosen issue category
 
-
-More features;
-     
-     
-     
-     -Code splitting to load only necessary resources i.e; use of Tailwind CSS
-     
-     -Real time synchronization which is very reliable with aid of modern web sockets
+Gaps to tackle;
+      -Auto reports
+      -Incase of updates, customer made changes are lost at the backend
+      -Manual updates hence low response time after a while
+      -Add contact to client profile incase of reach out
+      -Code splitting to load only necessary resources i.e; use of Tailwind CSS
+      -Real time synchronization which is very reliable with aid of modern web sockets
